@@ -1,6 +1,5 @@
 # alx-project-0x08-setup
-HookMastery: Unleashing the Power of Hooks
-# alx-project-0x06-setup
+
 
 This repository contains the implementation of a shared layout and related features using **Next.js**. It includes reusable components such as a Header, Footer, and Layout, as well as a button component and error handling with a custom 404 page. This project is designed to follow best practices and maintain a clean, organized structure.
 
